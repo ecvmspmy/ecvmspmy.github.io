@@ -21,9 +21,11 @@
 title: ECV-MSP (MALAYSIA)
 email: msp.my@ecloudvalley.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  eCloudvalley is the Premier Consulting Partner of AWS. 
+  We have committed to digitalise with cloud since 2014 and 
+  have recently won the 2020 "AWS Consulting Partner of the Year" award. 
+  This recognises us as a high performing partner in ASEAN that helps 
+  customers drive innovation on AWS Cloud.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ecvmspmy.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
