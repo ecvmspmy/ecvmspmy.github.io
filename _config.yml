@@ -33,6 +33,7 @@ github_username:  ecvmspmy
 # Build settings
 #remote_theme: chrisrhymes/bulma-clean-theme
 theme: minima
+skin: solarized
 plugins:
   - jekyll-feed
 
