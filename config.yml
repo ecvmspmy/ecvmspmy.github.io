@@ -111,6 +111,8 @@ params:
     socialIcons:
         - name: github
           url: "https://github.com/ecvmspmy"
+        - name: linkedin
+          url: "https://www.linkedin.com/company/ecloudvalley-digital-tech/"
         - name: email
           url: "msp.my@ecloudvalley.com"
         - name: Rss
