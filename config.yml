@@ -29,7 +29,7 @@ languages:
         profileMode:
             enabled: true
             title: eCloudValley Malaysia
-            imageUrl: "https://c.na65.content.force.com/servlet/servlet.ImageServer?id=0150h000002wJ0vAAE&oid=00DE0000000c48tMAA"
+            imageUrl: "ECVLogo.png"
             imageTitle: eCloudValley image
             imageWidth: 306
             imageHeight: 156
@@ -59,7 +59,7 @@ languages:
                   weight: 14
                 - name: Search
                   url: search/
-                  weight: 10
+                  weight: 1
                 - name: Contact Us
                   url: contact/
                   weight: 15
@@ -73,7 +73,6 @@ outputs:
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
     description: "ECV-MSP Malaysia Blog"
-    # author: ["Syed Ahmad Fazli", "Hakim Hairon", "Nicholas Lai"]
     # author: ["Me", "You"] # multiple authors
     keywords: [Cloud, Blog, MSP, eCloudValley Malaysia]
     DateFormat: "January 2, 2006"
@@ -109,16 +108,16 @@ params:
     #         - **PaperMod** is a simple but fast and responsive theme with useful feature-set that enhances UX.
     #         - Do give a 🌟 on Github !
     #         - PaperMod is based on theme [Paper](https://github.com/nanxiaobei/hugo-paper).
-    # socialIcons:
-    #     - name: github
-    #       url: "https://github.com/adityatelange/hugo-PaperMod"
-    #     - name: KoFi
-    #       url: "https://ko-fi.com/adityatelange"
-    #     - name: Rss
-    #       url: "index.xml"
+    socialIcons:
+        - name: github
+          url: "https://github.com/ecvmspmy"
+        - name: email
+          url: "msp.my@ecloudvalley.com"
+        - name: Rss
+          url: "index.xml"
 
     editPost:
-        URL: "https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite/content"
+        URL: "https://github.com/ecvmspmy/ecvmspmy.github.io/tree/main/content"
         Text: "Edit" # edit text
         appendFilePath: true # to append file path to Edit link
 
@@ -133,8 +132,8 @@ params:
 
     assets:
         disableHLJS: true
-    #     favicon: "<link / abs url>"
-    #     favicon16x16: "<link / abs url>"
+        favicon: "ECVLogo.png"
+        favicon16x16: "ECVLogo.png"
     #     favicon32x32: "<link / abs url>"
     #     apple_touch_icon: "<link / abs url>"
     #     safari_pinned_tab: "<link / abs url>"
