@@ -15,7 +15,7 @@ googleAnalytics: UA-123-45
 
 minify:
     disableXML: true
-    # minifyOutput: true
+    minifyOutput: true
 
 languages:
     en:
@@ -118,19 +118,19 @@ params:
         - name: Rss
           url: "index.xml"
 
-    editPost:
-        URL: "https://github.com/ecvmspmy/ecvmspmy.github.io/tree/main/content"
-        Text: "Edit" # edit text
-        appendFilePath: true # to append file path to Edit link
+    # editPost:
+    #     URL: "https://github.com/ecvmspmy/ecvmspmy.github.io/tree/main/content"
+    #     Text: "Edit" # edit text
+    #     appendFilePath: true # to append file path to Edit link
 
     # label:
     #     text: "Home"
     #     icon: icon.png
     #     iconHeight: 35
 
-    # analytics:
-    #     google:
-    #         SiteVerificationTag: "XYZabc"
+    analytics:
+      google:
+        SiteVerificationTag: "XYZabc"
 
     assets:
         disableHLJS: true
