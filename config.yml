@@ -52,7 +52,7 @@ languages:
                   url: projects/
                   weight: 10
                 - name: News
-                  url: news/
+                  url: news
                   weight: 10
                 - name: Archive
                   url: archives

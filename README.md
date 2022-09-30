@@ -9,3 +9,8 @@
 ### Start Development Server Locally
 
 `hugo server -D`
+
+### To Create New Post
+
+`hugo new --kind post <name>`
+`hugo new --kind news <name>`
