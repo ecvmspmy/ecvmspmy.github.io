@@ -3,6 +3,6 @@ title: "Search" # in any language you want
 layout: "search" # is necessary
 # url: "/archive"
 # description: "Description for Search"
-summary: "search"
+summary: search
 placeholder: "type to search for blog posts"
 ---
