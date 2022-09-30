@@ -1,6 +1,6 @@
 ---
 title: "About"
-layout: "about"
+layout: "single"
 url: "/about/"
 summary: about
 ---
