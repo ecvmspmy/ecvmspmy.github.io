@@ -48,9 +48,9 @@ languages:
                 - name: Blog
                   url: post
                   weight: 6
-                - name: Projects
-                  url: projects/
-                  weight: 10
+                # - name: Projects
+                #   url: projects/
+                #   weight: 10
                 - name: News
                   url: news
                   weight: 10
