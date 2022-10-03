@@ -57,9 +57,9 @@ languages:
                 - name: Archive
                   url: archives
                   weight: 14
-                - name: Search
-                  url: search/
-                  weight: 16
+                # - name: Search
+                #   url: search/
+                #   weight: 16
                 # - name: Contact Us
                 #   url: contact/
                 #   weight: 15
