@@ -12,5 +12,5 @@
 
 ### To Create New Post
 
-`hugo new --kind post news/<title>`
-`hugo new --kind post post/<title>`
+`hugo new  news/<title>`
+`hugo new  post/<title>`
