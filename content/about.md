@@ -6,7 +6,7 @@ summary: about
 cover:
     image: ECV_GroupPhoto.jpeg # image path/url
     alt: "eCloudValley" # alt text
-    caption: "13 September 2022: ECV Malaysia employees celebrating 9th Anniversary" # display caption under cover
+    caption: "13 September 2022: ECV Malaysia employees celebrating eCloudValley's 9th Anniversary" # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: false # only hide on current single page
 ---
