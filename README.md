@@ -14,3 +14,9 @@
 
 `hugo new  news/<title>`
 `hugo new  post/<title>`
+
+### Improvement
+
+1. Check for the BD email if can use or not
+2. Adding separate section for suggestion/related post in the same articles page
+3. Check for email icon not linked to correct page
