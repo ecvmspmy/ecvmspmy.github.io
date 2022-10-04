@@ -1,6 +1,6 @@
 baseURL: 'https://ecvmspmy.github.io/'
 languageCode: 'en-us'
-title: 'eCloudValley Malaysia'
+title: 'eCloudvalley Malaysia'
 theme: "PaperMod"
 paginate: 5
 
@@ -21,23 +21,23 @@ languages:
     en:
         languageName: "English"
         weight: 1
-        title: eCloudValley Malaysia
+        title: eCloudvalley Malaysia
         taxonomies:
           category: categories
           tag: tags
           series: series
         profileMode:
             enabled: true
-            title: eCloudValley Malaysia
+            title: eCloudvalley Malaysia
             imageUrl: "ECVLogo.png"
-            imageTitle: eCloudValley image
+            imageTitle: eCloudvalley image
             imageWidth: 306
             imageHeight: 156
             subtitle: "Redefine IT with Cloud"
             buttons:
-                - name: eCloudValley Malaysia Blog
+                - name: eCloudvalley Malaysia Blog
                   url: post
-                - name: eCloudValley Official Website
+                - name: eCloudvalley Official Website
                   url: "https://www.ecloudvalley.com/en"
                 
         menu:
@@ -74,7 +74,7 @@ params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
     description: "ECV-MSP Malaysia Blog"
     # author: ["Me", "You"] # multiple authors
-    keywords: [Cloud, Blog, MSP, eCloudValley Malaysia]
+    keywords: [Cloud, Blog, MSP, eCloudvalley Malaysia]
     DateFormat: "January 2, 2006"
     defaultTheme: auto
     # disableThemeToggle: true
@@ -92,7 +92,7 @@ params:
 
     profileMode:
         enabled: false
-        title: eCloudValley Malaysia
+        title: eCloudvalley Malaysia
         imageUrl: "#"
         imageTitle: ECV image
         # imageWidth: 120

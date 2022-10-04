@@ -1,5 +1,5 @@
 ---
-title: "ECV Redang Trip 2022"
+title: "eCloudvalley Redang Trip 2022"
 date: 2022-09-30T19:56:37+08:00
 draft: true
 TocOpen: false
